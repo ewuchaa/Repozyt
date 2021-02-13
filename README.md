@@ -1,0 +1,2 @@
+# Repozyt
+skalowanie repozytu
